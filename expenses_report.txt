@@ -1,0 +1,20 @@
+Expense Report
+====================
+Pens expenses: [10.0, 20.0]
+Average pens expense: 15.00
+Sum pens expense: 30.00
+
+Pencils expenses: [50.0, 40.0]
+Average pencils expense: 45.00
+Sum pencils expense: 90.00
+
+Erasers expenses: [25.0, 45.0]
+Average erasers expense: 35.00
+Sum erasers expense: 70.00
+
+Notebooks expenses: [30.0, 90.0]
+Average notebooks expense: 60.00
+Sum notebooks expense: 120.00
+
+Total expense: 310.00
+Average expense across all categories: 77.50

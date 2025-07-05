@@ -31,3 +31,22 @@ print("\nShopping List:")
 for i , item in enumerate(Groceries, start=1):
     print(f"{i}.{item}")
 
+name = str(input("Enter your name: "))
+age = int(input("Enter your age: "))
+
+print(f"Hello {name}, you are {age} years old.")
+
+if age < 18:
+    print("You are a minor.")
+else:
+    print("You are an adult.")
+
+greet = int(input("How many time I shoulkd greet you? "))
+for i in range(greet):
+    print(f"Hello {name}!")
+    
+range = [1,2,3,4,5]
+
+for i in range:
+    print(i*i)
+

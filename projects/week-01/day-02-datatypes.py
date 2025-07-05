@@ -33,6 +33,16 @@ print("\n" + "Skills practiced so far:")
 for i, skill in enumerate(skills, start=1):
     print(f"{i}. {skill}")
 
+count = 0
+while count < 3:
+    print("Learning is fun!")
+    count += 1
+
+for i in range(5):
+    print("Step", i)
+
+
+
 # --- FUNCTIONS ---
 def describe_person(name, age, learning=True):
     status = "is learning" if learning else "not learning"
